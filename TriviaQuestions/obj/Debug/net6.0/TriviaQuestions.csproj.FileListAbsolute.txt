@@ -1,0 +1,15 @@
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\bin\Debug\net6.0\TriviaQuestions.exe
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\bin\Debug\net6.0\TriviaQuestions.deps.json
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\bin\Debug\net6.0\TriviaQuestions.runtimeconfig.json
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\bin\Debug\net6.0\TriviaQuestions.dll
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\bin\Debug\net6.0\TriviaQuestions.pdb
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\obj\Debug\net6.0\TriviaQuestions.csproj.AssemblyReference.cache
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\obj\Debug\net6.0\TriviaQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\obj\Debug\net6.0\TriviaQuestions.AssemblyInfoInputs.cache
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\obj\Debug\net6.0\TriviaQuestions.AssemblyInfo.cs
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\obj\Debug\net6.0\TriviaQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\obj\Debug\net6.0\TriviaQuestions.dll
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\obj\Debug\net6.0\refint\TriviaQuestions.dll
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\obj\Debug\net6.0\TriviaQuestions.pdb
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\obj\Debug\net6.0\TriviaQuestions.genruntimeconfig.cache
+C:\Users\Frank\Desktop\TriviaQuestions\TriviaQuestions\obj\Debug\net6.0\ref\TriviaQuestions.dll
